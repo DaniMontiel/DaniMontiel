@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DaniMontiel
+- 👀 I’m interested in Data Analyts, NLP and GIS
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on projects that allow me to learn
+- 📫 How to reach me ...
